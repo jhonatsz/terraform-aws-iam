@@ -1,1 +1,5 @@
+# Ignore terraform folder
 .terraform
+
+# Ignore swp files
+*.swp
